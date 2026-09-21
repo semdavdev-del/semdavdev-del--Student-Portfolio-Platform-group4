@@ -1,0 +1,13 @@
+{
+  "name": "student-portfolio-platform",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix my-project run dev -- --host",
+    "build": "npm --prefix my-project run build",
+    "preview": "npm --prefix my-project run preview -- --host"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
